@@ -1,9 +1,9 @@
 import streamlit
 
-streamlit.title('Pravallika First Intresting Learnings on APIs')
-streamlit.header('Pravallika Okayish')
-streamlit.title('Pravallika Good Progress')
-streamlit.title('Pravallika Trying her best')
-streamlit.title('Pravallika learnt new concept')
+streamlit.title('Pravallika New Healthy Dinner')
+streamlit.header('Breakfast Menu')
+streamlit.text(' 🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 🐔 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🥑 🍞 Hard-Boiled Free-Range Egg')
 
 
