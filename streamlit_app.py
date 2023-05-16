@@ -59,6 +59,5 @@ if streamlit.button('Add a fruit to the List'):
     back_from_function = insert_row_snowflake(new_fruit)
     streamlit.dataframe(back_from_function)
 
-
- streamlit.stop()
+streamlit.stop()
     
